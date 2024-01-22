@@ -1,4 +1,5 @@
-# Below code snippet is adapted from https://github.com/stanford-futuredata/selection-via-proxy.git svp/cifar/models.py
+# Below code snippet is adapted from https://github.com/stanford-futuredata/selection-via-proxy.git
+# svp/cifar/models.py
 # Date: Jan 22, 2024
 
 import math
