@@ -1,0 +1,43 @@
+# "Deep Residual Learning for Image Recognition"
+resnet20
+resnet32
+resnet44
+resnet56
+resnet110
+resnet1202
+
+ # "Wide Residual Networks"
+wrn-40-4
+wrn-16-4
+wrn-16-8
+wrn-28-10
+
+ # Based on "Identity Mappings in Deep Residual Networks"
+preact8
+preact14
+preact20
+preact56
+preact164-basic
+
+# "Identity Mappings in Deep Residual Networks"
+preact110
+preact164
+preact1001
+
+# Based on "Deep Networks with Stochastic Depth"
+stochastic56
+stochastic56-08
+stochastic110
+stochastic1202
+stochastic152-svhn
+resnet152-svhn
+
+# "Aggregated Residual Transformations for Deep Neural Networks"
+resnext29-8-64'
+resnext29-16-64
+
+# Kuangliu/pytorch-cifar
+resnet18
+resnet50
+resnet101
+resnet152
